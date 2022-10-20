@@ -1,0 +1,64 @@
+*{
+    padding: 0%;
+    text-decoration: none;
+    margin: 0%;
+}
+body{
+    background-color: bisque;
+}
+.all{
+    width: 36em;
+    height: 20em;
+    background-color: white;
+    position: absolute;
+    left: 30em;
+    top: 10em;
+    border-radius: 10px;
+
+}
+.gabi img{
+    width: 18em;
+    height: 20em;
+    border-radius: 10px 0 0 10px;
+}
+.desc{
+    position: relative;
+    left: 20em;
+    bottom: 20em;
+
+}
+.desc #head{
+    color: grey;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 13px;
+
+}
+.h1{
+padding: 10px 0 5px 0;
+}
+.desc #dess{
+    color: grey;
+    line-height: 1;
+    padding: 5px 0 5px 0;
+}
+.NUM #p1{
+    color: green;
+    font-size: x-large;
+    padding-right: 20px;
+    
+}
+.NUM #p2{
+    color: grey;
+    font-size: 10px;
+
+}
+.btn button{
+    height: 3em;
+    width: 15em;
+    background-color: green;
+    border-radius: 10px;
+    color: white;
+}
+.btn{
+    padding-top: 15px;
+}
